@@ -1,6 +1,7 @@
 
 [
-    {
+    "conditions" :
+    [{
         "code": 1000,
         "day": "Sunny",
         "night": "Clear",
@@ -69,7 +70,7 @@
         "night": "Patchy light drizzle",
         "day_icon": 263,
         "night_icon": ""
-    }
+    }]
 ]
 
 
