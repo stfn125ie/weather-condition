@@ -1,0 +1,341 @@
+
+[
+    {
+        "code": 1000,
+        "day": "Sunny",
+        "night": "Clear",
+        "day_icon": "https://drive.google.com/file/d/1_GK9fBWW8p9r-N1NLXNJePNR2QzM7sml/view?usp=share_link",
+        "night_icon": "https://drive.google.com/file/d/1aaHmIIA71y-P4r8rEKYSrZip3FUIR2Le/view?usp=share_link"
+    },
+    {
+        "code": 1003,
+        "day": "Partly cloudy",
+        "night": "Partly cloudy",
+        "day_icon": "https://drive.google.com/file/d/1942DtVMkCV_fko3D5HLCtli7IND-Tph-/view?usp=share_link",
+        "night_icon": "https://drive.google.com/file/d/1PSIHx6GdCj7RejU8MoWXInPIijQiEQhT/view?usp=share_link"
+    },
+    {
+        "code": 1006,
+        "day": "Cloudy",
+        "night": "Cloudy",
+        "day_icon": "https://drive.google.com/file/d/18jVdVR_n-Hje07Kot39TvHsr9gy_nP0x/view?usp=share_link",
+        "night_icon": "https://drive.google.com/file/d/18jVdVR_n-Hje07Kot39TvHsr9gy_nP0x/view?usp=share_link"
+    },
+    {
+        "code": 1009,
+        "day": "Overcast",
+        "night": "Overcast",
+        "day_icon": "https://drive.google.com/file/d/1Zej1GY6hAvIC7eJRptM8uigFFx4oss_n/view?usp=share_link",
+        "night_icon": "https://drive.google.com/file/d/1Zej1GY6hAvIC7eJRptM8uigFFx4oss_n/view?usp=share_link"
+    },
+    {
+        "code": 1030,
+        "day": "Mist",
+        "night": "Mist",
+        "day_icon": "https://drive.google.com/file/d/1DfWL-qbp7hNqh-6OrATtRYdGfbqyRqmA/view?usp=share_link",
+        "night_icon": "https://drive.google.com/file/d/1DfWL-qbp7hNqh-6OrATtRYdGfbqyRqmA/view?usp=share_link"
+    },
+    {
+        "code": 1063,
+        "day": "Patchy rain possible",
+        "night": "Patchy rain possible",
+        "day_icon": "https://drive.google.com/file/d/10kVs1z_W9ZIVbwb18ndFG7l1jtS4IIFk/view?usp=share_link",
+        "night_icon": "https://drive.google.com/file/d/1ParbNS0Ot0-WvDBamHCNYRntayF0M0Wx/view?usp=share_link"
+    },
+    {
+        "code": 1066,
+        "day": "Patchy snow possible",
+        "night": "Patchy snow possible",
+        "day_icon": 179,
+        "night_icon": ""
+    },
+    {
+        "code": 1069,
+        "day": "Patchy sleet possible",
+        "night": "Patchy sleet possible",
+        "day_icon": 182,
+        "night_icon": ""
+    },
+    {
+        "code": 1072,
+        "day": "Patchy freezing drizzle possible",
+        "night": "Patchy freezing drizzle possible",
+        "day_icon": 185,
+        "night_icon": ""
+    },
+    {
+        "code": 1087,
+        "day": "Thundery outbreaks possible",
+        "night": "Thundery outbreaks possible",
+        "day_icon": 200,
+        "night_icon": ""
+    },
+    {
+        "code": 1114,
+        "day": "Blowing snow",
+        "night": "Blowing snow",
+        "day_icon": 227,
+        "night_icon": ""
+    },
+    {
+        "code": 1117,
+        "day": "Blizzard",
+        "night": "Blizzard",
+        "day_icon": 230,
+        "night_icon": ""
+    },
+    {
+        "code": 1135,
+        "day": "Fog",
+        "night": "Fog",
+        "day_icon": "https://drive.google.com/file/d/16hlGjDok8kmh_O9_nsgiUrecGmEWgooe/view?usp=share_link",
+        "night_icon": "https://drive.google.com/file/d/16hlGjDok8kmh_O9_nsgiUrecGmEWgooe/view?usp=share_link"
+    },
+    {
+        "code": 1147,
+        "day": "Freezing fog",
+        "night": "Freezing fog",
+        "day_icon": "https://drive.google.com/file/d/16hlGjDok8kmh_O9_nsgiUrecGmEWgooe/view?usp=share_link",
+        "night_icon": "https://drive.google.com/file/d/16hlGjDok8kmh_O9_nsgiUrecGmEWgooe/view?usp=share_link"
+    },
+    {
+        "code": 1150,
+        "day": "Patchy light drizzle",
+        "night": "Patchy light drizzle",
+        "day_icon": 263,
+        "night_icon": ""
+    },
+    {
+        "code": 1153,
+        "day": "Light drizzle",
+        "night": "Light drizzle",
+        "day_icon": 266,
+        "night_icon": ""
+    },
+    {
+        "code": 1168,
+        "day": "Freezing drizzle",
+        "night": "Freezing drizzle",
+        "day_icon": 281,
+        "night_icon": ""
+    },
+    {
+        "code": 1171,
+        "day": "Heavy freezing drizzle",
+        "night": "Heavy freezing drizzle",
+        "day_icon": "https://drive.google.com/file/d/1S74xhAZTngCmtNcp7035ZesugbqZOaDK/view?usp=share_link",
+        "night_icon": "https://drive.google.com/file/d/1S74xhAZTngCmtNcp7035ZesugbqZOaDK/view?usp=share_link"
+    },
+    {
+        "code": 1180,
+        "day": "Patchy light rain",
+        "night": "Patchy light rain",
+        "day_icon": "",
+        "night_icon": ""
+    },
+    {
+        "code": 1183,
+        "day": "Light rain",
+        "night": "Light rain",
+        "day_icon": "https://drive.google.com/file/d/1gL91acRuYQGOi4oBnsANMuUsEWJR9eDQ/view?usp=share_link",
+        "night_icon": "https://drive.google.com/file/d/1gL91acRuYQGOi4oBnsANMuUsEWJR9eDQ/view?usp=share_link"
+    },
+    {
+        "code": 1186,
+        "day": "Moderate rain at times",
+        "night": "Moderate rain at times",
+        "day_icon": "https://drive.google.com/file/d/1Kt-QcWmR2eM_MU5O-A-X-YzvcVRWi22v/view?usp=share_link",
+        "night_icon": "https://drive.google.com/file/d/1hZ4r_pnI0_XkAXOAbGUOfdsBszQ3Wum4/view?usp=share_link"
+    },
+    {
+        "code": 1189,
+        "day": "Moderate rain",
+        "night": "Moderate rain",
+        "day_icon": "https://drive.google.com/file/d/1Kt-QcWmR2eM_MU5O-A-X-YzvcVRWi22v/view?usp=share_link",
+        "night_icon": "https://drive.google.com/file/d/1hZ4r_pnI0_XkAXOAbGUOfdsBszQ3Wum4/view?usp=share_link"
+    },
+    {
+        "code": 1192,
+        "day": "Heavy rain at times",
+        "night": "Heavy rain at times",
+        "day_icon": "https://drive.google.com/file/d/1gL91acRuYQGOi4oBnsANMuUsEWJR9eDQ/view?usp=share_link",
+        "night_icon": "https://drive.google.com/file/d/1gL91acRuYQGOi4oBnsANMuUsEWJR9eDQ/view?usp=share_link"
+    },
+    {
+        "code": 1195,
+        "day": "Heavy rain",
+        "night": "Heavy rain",
+        "day_icon": "https://drive.google.com/file/d/1FaY3ssd7TKDmFTDXJiYptsKI9Zb9aR0L/view?usp=share_link",
+        "night_icon": "https://drive.google.com/file/d/1FaY3ssd7TKDmFTDXJiYptsKI9Zb9aR0L/view?usp=share_link"
+    },
+    {
+        "code": 1198,
+        "day": "Light freezing rain",
+        "night": "Light freezing rain",
+        "day_icon": 311,
+        "night_icon": ""
+    },
+    {
+        "code": 1201,
+        "day": "Moderate or heavy freezing rain",
+        "night": "Moderate or heavy freezing rain",
+        "day_icon": 314,
+        "night_icon": ""
+    },
+    {
+        "code": 1204,
+        "day": "Light sleet",
+        "night": "Light sleet",
+        "day_icon": 317,
+        "night_icon": ""
+    },
+    {
+        "code": 1207,
+        "day": "Moderate or heavy sleet",
+        "night": "Moderate or heavy sleet",
+        "day_icon": 320,
+        "night_icon": ""
+    },
+    {
+        "code": 1210,
+        "day": "Patchy light snow",
+        "night": "Patchy light snow",
+        "day_icon": 323,
+        "night_icon": ""
+    },
+    {
+        "code": 1213,
+        "day": "Light snow",
+        "night": "Light snow",
+        "day_icon": 326,
+        "night_icon": ""
+    },
+    {
+        "code": 1216,
+        "day": "Patchy moderate snow",
+        "night": "Patchy moderate snow",
+        "day_icon": 329,
+        "night_icon": ""
+    },
+    {
+        "code": 1219,
+        "day": "Moderate snow",
+        "night": "Moderate snow",
+        "day_icon": 332,
+        "night_icon": ""
+    },
+    {
+        "code": 1222,
+        "day": "Patchy heavy snow",
+        "night": "Patchy heavy snow",
+        "day_icon": 335,
+        "night_icon": ""
+    },
+    {
+        "code": 1225,
+        "day": "Heavy snow",
+        "night": "Heavy snow",
+        "day_icon": 338,
+        "night_icon": ""
+    },
+    {
+        "code": 1237,
+        "day": "Ice pellets",
+        "night": "Ice pellets",
+        "day_icon": 350,
+        "night_icon": ""
+    },
+    {
+        "code": 1240,
+        "day": "Light rain shower",
+        "night": "Light rain shower",
+        "day_icon": 353,
+        "night_icon": ""
+    },
+    {
+        "code": 1243,
+        "day": "Moderate or heavy rain shower",
+        "night": "Moderate or heavy rain shower",
+        "day_icon": 356,
+        "night_icon": ""
+    },
+    {
+        "code": 1246,
+        "day": "Torrential rain shower",
+        "night": "Torrential rain shower",
+        "day_icon": 359,
+        "night_icon": ""
+    },
+    {
+        "code": 1249,
+        "day": "Light sleet showers",
+        "night": "Light sleet showers",
+        "day_icon": 362,
+        "night_icon": ""
+    },
+    {
+        "code": 1252,
+        "day": "Moderate or heavy sleet showers",
+        "night": "Moderate or heavy sleet showers",
+        "day_icon": 365,
+        "night_icon": ""
+    },
+    {
+        "code": 1255,
+        "day": "Light snow showers",
+        "night": "Light snow showers",
+        "day_icon": 368,
+        "night_icon": ""
+    },
+    {
+        "code": 1258,
+        "day": "Moderate or heavy snow showers",
+        "night": "Moderate or heavy snow showers",
+        "day_icon": 371,
+        "night_icon": ""
+    },
+    {
+        "code": 1261,
+        "day": "Light showers of ice pellets",
+        "night": "Light showers of ice pellets",
+        "day_icon": 374,
+        "night_icon": ""
+    },
+    {
+        "code": 1264,
+        "day": "Moderate or heavy showers of ice pellets",
+        "night": "Moderate or heavy showers of ice pellets",
+        "day_icon": 377,
+        "night_icon": ""
+    },
+    {
+        "code": 1273,
+        "day": "Patchy light rain with thunder",
+        "night": "Patchy light rain with thunder",
+        "day_icon": "https://drive.google.com/file/d/1pI_4soP4A_-ORwJlj3hiY_OXmJz_k7hu/view?usp=share_link",
+        "night_icon": "https://drive.google.com/file/d/1pI_4soP4A_-ORwJlj3hiY_OXmJz_k7hu/view?usp=share_link"
+    },
+    {
+        "code": 1276,
+        "day": "Moderate or heavy rain with thunder",
+        "night": "Moderate or heavy rain with thunder",
+        "day_icon": "https://drive.google.com/file/d/1KnylwFOvbx_-pSxo7zJolqXS4WUJUFWO/view?usp=share_link",
+        "night_icon": "https://drive.google.com/file/d/1KnylwFOvbx_-pSxo7zJolqXS4WUJUFWO/view?usp=share_link"
+    },
+    {
+        "code": 1279,
+        "day": "Patchy light snow with thunder",
+        "night": "Patchy light snow with thunder",
+        "day_icon": 392,
+        "night_icon": ""
+    },
+    {
+        "code": 1282,
+        "day": "Moderate or heavy snow with thunder",
+        "night": "Moderate or heavy snow with thunder",
+        "day_icon": 395,
+        "night_icon": ""
+    }
+]
+
+
