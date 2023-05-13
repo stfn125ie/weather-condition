@@ -1,76 +1,76 @@
 
-[
-    "conditions" :
-    [{
-        "code": 1000,
-        "day": "Sunny",
-        "night": "Clear",
-        "day_icon": "https://drive.google.com/file/d/1_GK9fBWW8p9r-N1NLXNJePNR2QzM7sml/view?usp=share_link",
-        "night_icon": "https://drive.google.com/file/d/1aaHmIIA71y-P4r8rEKYSrZip3FUIR2Le/view?usp=share_link"
-    },
-    {
-        "code": 1003,
-        "day": "Partly cloudy",
-        "night": "Partly cloudy",
-        "day_icon": "https://drive.google.com/file/d/1942DtVMkCV_fko3D5HLCtli7IND-Tph-/view?usp=share_link",
-        "night_icon": "https://drive.google.com/file/d/1PSIHx6GdCj7RejU8MoWXInPIijQiEQhT/view?usp=share_link"
-    },
-    {
-        "code": 1006,
-        "day": "Cloudy",
-        "night": "Cloudy",
-        "day_icon": "https://drive.google.com/file/d/18jVdVR_n-Hje07Kot39TvHsr9gy_nP0x/view?usp=share_link",
-        "night_icon": "https://drive.google.com/file/d/18jVdVR_n-Hje07Kot39TvHsr9gy_nP0x/view?usp=share_link"
-    },
-    {
-        "code": 1009,
-        "day": "Overcast",
-        "night": "Overcast",
-        "day_icon": "https://drive.google.com/file/d/1Zej1GY6hAvIC7eJRptM8uigFFx4oss_n/view?usp=share_link",
-        "night_icon": "https://drive.google.com/file/d/1Zej1GY6hAvIC7eJRptM8uigFFx4oss_n/view?usp=share_link"
-    },
-    {
-        "code": 1030,
-        "day": "Mist",
-        "night": "Mist",
-        "day_icon": "https://drive.google.com/file/d/1DfWL-qbp7hNqh-6OrATtRYdGfbqyRqmA/view?usp=share_link",
-        "night_icon": "https://drive.google.com/file/d/1DfWL-qbp7hNqh-6OrATtRYdGfbqyRqmA/view?usp=share_link"
-    },
-    {
-        "code": 1063,
-        "day": "Patchy rain possible",
-        "night": "Patchy rain possible",
-        "day_icon": "https://drive.google.com/file/d/10kVs1z_W9ZIVbwb18ndFG7l1jtS4IIFk/view?usp=share_link",
-        "night_icon": "https://drive.google.com/file/d/1ParbNS0Ot0-WvDBamHCNYRntayF0M0Wx/view?usp=share_link"
-    },
-    {
-        "code": 1087,
-        "day": "Thundery outbreaks possible",
-        "night": "Thundery outbreaks possible",
-        "day_icon": 200,
-        "night_icon": ""
-    },
-    {
-        "code": 1135,
-        "day": "Fog",
-        "night": "Fog",
-        "day_icon": "https://drive.google.com/file/d/16hlGjDok8kmh_O9_nsgiUrecGmEWgooe/view?usp=share_link",
-        "night_icon": "https://drive.google.com/file/d/16hlGjDok8kmh_O9_nsgiUrecGmEWgooe/view?usp=share_link"
-    },
-    {
-        "code": 1147,
-        "day": "Freezing fog",
-        "night": "Freezing fog",
-        "day_icon": "https://drive.google.com/file/d/16hlGjDok8kmh_O9_nsgiUrecGmEWgooe/view?usp=share_link",
-        "night_icon": "https://drive.google.com/file/d/16hlGjDok8kmh_O9_nsgiUrecGmEWgooe/view?usp=share_link"
-    },
-    {
-        "code": 1150,
-        "day": "Patchy light drizzle",
-        "night": "Patchy light drizzle",
-        "day_icon": 263,
-        "night_icon": ""
-    }]
-]
-
+{
+    "conditions" : [
+        {
+            "code": 1000,
+            "day": "Sunny",
+            "night": "Clear",
+            "day_icon": "https://drive.google.com/file/d/1_GK9fBWW8p9r-N1NLXNJePNR2QzM7sml/view?usp=share_link",
+            "night_icon": "https://drive.google.com/file/d/1aaHmIIA71y-P4r8rEKYSrZip3FUIR2Le/view?usp=share_link"
+        },
+        {
+            "code": 1003,
+            "day": "Partly cloudy",
+            "night": "Partly cloudy",
+            "day_icon": "https://drive.google.com/file/d/1942DtVMkCV_fko3D5HLCtli7IND-Tph-/view?usp=share_link",
+            "night_icon": "https://drive.google.com/file/d/1PSIHx6GdCj7RejU8MoWXInPIijQiEQhT/view?usp=share_link"
+        },
+        {
+            "code": 1006,
+            "day": "Cloudy",
+            "night": "Cloudy",
+            "day_icon": "https://drive.google.com/file/d/18jVdVR_n-Hje07Kot39TvHsr9gy_nP0x/view?usp=share_link",
+            "night_icon": "https://drive.google.com/file/d/18jVdVR_n-Hje07Kot39TvHsr9gy_nP0x/view?usp=share_link"
+        },
+        {
+            "code": 1009,
+            "day": "Overcast",
+            "night": "Overcast",
+            "day_icon": "https://drive.google.com/file/d/1Zej1GY6hAvIC7eJRptM8uigFFx4oss_n/view?usp=share_link",
+            "night_icon": "https://drive.google.com/file/d/1Zej1GY6hAvIC7eJRptM8uigFFx4oss_n/view?usp=share_link"
+        },
+        {
+            "code": 1030,
+            "day": "Mist",
+            "night": "Mist",
+            "day_icon": "https://drive.google.com/file/d/1DfWL-qbp7hNqh-6OrATtRYdGfbqyRqmA/view?usp=share_link",
+            "night_icon": "https://drive.google.com/file/d/1DfWL-qbp7hNqh-6OrATtRYdGfbqyRqmA/view?usp=share_link"
+        },
+        {
+            "code": 1063,
+            "day": "Patchy rain possible",
+            "night": "Patchy rain possible",
+            "day_icon": "https://drive.google.com/file/d/10kVs1z_W9ZIVbwb18ndFG7l1jtS4IIFk/view?usp=share_link",
+            "night_icon": "https://drive.google.com/file/d/1ParbNS0Ot0-WvDBamHCNYRntayF0M0Wx/view?usp=share_link"
+        },
+        {
+            "code": 1087,
+            "day": "Thundery outbreaks possible",
+            "night": "Thundery outbreaks possible",
+            "day_icon": 200,
+            "night_icon": ""
+        },
+        {
+            "code": 1135,
+            "day": "Fog",
+            "night": "Fog",
+            "day_icon": "https://drive.google.com/file/d/16hlGjDok8kmh_O9_nsgiUrecGmEWgooe/view?usp=share_link",
+            "night_icon": "https://drive.google.com/file/d/16hlGjDok8kmh_O9_nsgiUrecGmEWgooe/view?usp=share_link"
+        },
+        {
+            "code": 1147,
+            "day": "Freezing fog",
+            "night": "Freezing fog",
+            "day_icon": "https://drive.google.com/file/d/16hlGjDok8kmh_O9_nsgiUrecGmEWgooe/view?usp=share_link",
+            "night_icon": "https://drive.google.com/file/d/16hlGjDok8kmh_O9_nsgiUrecGmEWgooe/view?usp=share_link"
+        },
+        {
+            "code": 1150,
+            "day": "Patchy light drizzle",
+            "night": "Patchy light drizzle",
+            "day_icon": 263,
+            "night_icon": ""
+        }
+    ]
+}
 
